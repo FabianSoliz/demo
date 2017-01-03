@@ -6,7 +6,15 @@ Un repo para testear las herramientas de git
 3-commit
 4-commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 5-commit
 6-commit
+>>>>>>> feature/squash-demo
+=======
+5-commit
+<<<<<<< HEAD
+6-commit
+=======
+>>>>>>> fc1171d... 5-commit
 >>>>>>> feature/squash-demo
